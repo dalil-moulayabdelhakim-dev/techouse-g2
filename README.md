@@ -1,0 +1,1 @@
+Techouse is a platform that helps people to learn new skills and find jobs. It is a platform that helps people to learn new skills and find jobs.
