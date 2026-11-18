@@ -1,0 +1,18 @@
+# Techouse - Group 2 (techouse-g2)
+# Instructor & Mentor Notes
+# Author: Dalil Moulay Abdelhakim (Computer Science Engineer & Digitization Lead, Directorate of Education - Béni Abbès)
+# Program: Techouse / Discover Bechar
+# Workshop: Comprehensive Git & GitHub Masterclass for Beginners
+
+## Session Breakdown:
+1. Theoretical Lecture (lsn.mp4):
+   - Introduction to Version Control Systems.
+   - Core distinction: Git (Local tracking) vs. GitHub (Cloud collaboration).
+   - Essential terminologies: Repositories, Commits, Branches, and Pull Requests.
+   - Project blueprint: README.md, .gitignore, LICENSE.
+
+2. Practical Workshop (pratique.mp4):
+   - Environment setup: Git installation and terminal configuration.
+   - Everyday commands: git clone, git add, git commit, git push, git pull.
+   - Standard 5-step collaboration workflow: Branch -> Commit -> Push -> Pull Request -> Merge.
+   - Best practices: Writing clean commit messages, handling credentials securely.
